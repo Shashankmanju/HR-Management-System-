@@ -402,7 +402,7 @@ void intro()
 {
     // Display the heading
     gotoXY(27, 4);
-    printf("HR MANAGEMENT SYSTEM");
+    printf("HR MANAGEMENT");
 
     // Display separator line
     gotoXY(25, 5);
@@ -423,11 +423,7 @@ void intro()
     gotoXY(20, 13);
     printf("1RN20IS145");
 
-    gotoXY(20, 15);
-    printf("Shashanka UN");
 
-    gotoXY(20, 17);
-    printf("1RN20IS147");
 
     // Display prompt to continue
     gotoXY(24, 20);
